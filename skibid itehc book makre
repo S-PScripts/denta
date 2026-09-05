@@ -1,0 +1,31 @@
+I strongly recommend reading https://rentry.co/delta-ksign instead.
+
+1. Turn off your VPN if you have one and disable other DNS if you have them. After that, go to https://skibiditech.co 
+2. Press Get Started. If you're redirected to an advertisement, go back to the previous tab/press back.
+3. Allow the configuration profile.
+4. Press Close.
+5. Go to Settings.
+6. Go to General -> VPN and Device Management.
+7. Press Install. Enter your password if necessary, then press Install again. Press it once again.
+8. Open the Skibidi Tech bookmark.
+9. You can now choose to install ESign, Scarlet, KSign, (TrollStore), or Feather. Since I've already made tutorials on how to use the ESign, KSign and Feather app, I'm going to continue with Scarlet here because why not 😂 (technically I made one for this but whatever). It also has the least steps to install Delta. KSign is better in terms of features, however. Scarlet is very basic.
+
+10. Press Scarlet/app of your choosing, then press the download button next to the one at the top. If you're redirected to an ad, just close it and press again.
+11. Press Install, then wait on your homescreen.
+12. Press on Scarlet/the signer app; if you get an integrity error, delete it and install one of another certificate. Otherwise, go to Settings. Go to VPN and Device Management again, trust the certificate, and restart your device if necessary.
+13. Download the Delta IPA from https://deltaexploits.dev
+
+Choose one of the following if you are not using Scarlet: 
+<#1486442594618572880>  -- read the **old** esign section 
+https://rentry.co/delta-ksign
+https://rentry.co/delta-feather (ignore the section where you have to import the certificate!!!)
+
+------------------------------------
+14. Open Scarlet, press the download button and press the Delta IPA. 
+15. Wait for it to import/sign, then press Install when prompted.
+16. Go to your homescreen; Delta should be there.
+
+**since skibidi tech only have six certs, if none work, just use my ksign guide**
+
+
+note: skibidi tech is **probably** safe, it's an unofficial partner to delta and he's the one to make direct install.
