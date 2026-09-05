@@ -1,0 +1,9 @@
+If you join a Roblox game only to get kicked with this message, this is unrelated to Delta's keysystem; it is being caused by a script (if you know what script it is, tell me. I've seen this error quite a few times).
+
+If you don't know what script is causing it, do the following:
+1. Find the delta folder
+To do this on android: install zarchiver from the play store then go to the path: storage/emulated/0
+To do this on iOS: open the files app, find "on my iPhone/iPad"
+2. Delete the autoexecute folder (if you know what script is causing it, delete that script only)
+
+Yeah that's all.
