@@ -1,0 +1,45 @@
+Preparation:
+- Disable any VPNs you have enabled.
+- Disable any other DNS you have enabled.
+- If you have Direct Install Delta already installed, delete it.
+
+Installing the anti-revoke DNS: **REQUIRED**
+- Copy this link: https://github.com/dns-khoindvn/oci-auto-vm/releases/download/DNS/khoindvn.mobileconfig
+> **If you need to use a VPN to play Delta, copy this link instead**: https://wsfteam.xyz/files/configurationprofiles/madNS-CP144.mobileconfig
+- Paste it into Safari and enter.
+- Press Allow. Press Close.
+- Go to Settings -> General -> VPN and Device Management
+- Press Khoindvn and install it. Ignore the warning.
+- Do not disable this DNS profile. Ever. (DO NOT OPEN THE KHOINDVN APP AS IT IS BUGGY.)
+
+Installing Ksign:
+- Copy this link and paste it into Safari: https://ksign-installer.vercel.app/ (this is a khoindvn frontend)
+- Press on Ksign and try to install the first one. If it says "open in iTunes", press Open. It should then prompt you to install Ksign. Press Install. (if it doesn't prompt you to Install, scroll down to 2nd message).
+- Go to your homescreen and wait until Ksign installs. If it shows a white icon with the error "integrity cannot be verified", try to install the second Ksign. Go down the Ksign list until one doesn't give that error. If they all give an integrity error, read <#1525201731724513401>. 
+> **DO NOT ASK ABOUT WHICH KSIGN WORKS: THE ONES THAT WORK WILL VARY FOR EVERYONE**
+- If you manage to install a Ksign that gives an "untrusted enterprise developer" error, continue.
+
+Trusting Ksign:
+- You should turn on Airplane Mode (avoid revoking for the next step). 
+- Go to Settings -> General -> VPN and Device Management. Press on the certificate name and trust it. You may need to restart your device after that (turn Airplane Mode off afterwards).
+- Now read <#1536058489330343966>
+
+Ksign not installing:
+- If you get an "open in iTunes" popup but no install popup afterwards, turn your Wi-Fi off and turn your Mobile/Cellular Data on. If that doesn't work, turn your Wi-Fi on and your Mobile/Cellular Data off.
+- If it still doesn't work, use someone's personal hotspot or ZIC VPN. The instructions to that are listed below:
+
+__**ZIC VPN IS A LAST RESORT**__
+
+
+__ZIC VPN steps:__
+- go to the app store
+- search ZIC VPN - Safe Surfer
+- install it
+- open it and sign in
+> the app is broken so it won't work if your phone's language isn't set to english lmao
+- connect
+- install a ksign; once you get one that says untrusted just turn zic vpn off
+
+The official site is https://khoindvn.io.vn but that has more ads. If you want Esign instead, use that.
+This is if you installed esign: https://discord.com/channels/1279547031945220147/1486442594618572880
+
