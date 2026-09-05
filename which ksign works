@@ -1,0 +1,3 @@
+Differs for everyone, if globally revoked
+An exception is with unrevoked certs; they should work for everyone.
+However most of the time, by the time certs are leaked, it is already revoked.
