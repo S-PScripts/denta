@@ -1,0 +1,19 @@
+Android: working (arm64 only)
+> There are no plans as to when arm32 will be re-added, if ever.
+
+iOS: working (IPA + DIRECT)
+
+Windows: Unsupported (as a native client)
+> You need to use an emulator <#1531103104815071393> 
+
+MacOS: Unsupported (as a native client)
+> You need to use an emulator if you have a Silicon chip <#1531103104815071393>)
+> For Intel chips you will have to use another executor.
+
+Linux (except chromeOS): Unsupported (as a native client)
+> Use dev mode on crOS or linux developer environment + ADB
+
+For Linux you can use Waydroid libhoudini
+
+https://deltaexploits.dev/
+https://deltaexploits.gg/
