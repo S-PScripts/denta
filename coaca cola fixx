@@ -1,0 +1,15 @@
+Ignore this blackout part ||- go to https://sign.ipasign.cc/
+- import the delta ipa file
+- import the p12 and mobileprovision attached (you can use any p12 and mobileprovision)
+- type the password, osign
+- press sign it now, once it's done, DOWNLOAD the ipa||
+
+- go to files
+- find the signed ipa you just downloaded
+- rename it to add .zip to the ending (NAME.ipa.zip)
+- tap the zip file to make a Payload folder. 
+- hold this payload folder and compress it to make a zip (payload.zip)
+- rename this zip file to replace .zip with .ipa (payload.ipa)
+- import it and it'll work ahhhhhhhh
+
+full sidestore tutorial: https://rentry.co/delta-sidestore
