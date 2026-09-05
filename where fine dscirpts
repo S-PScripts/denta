@@ -1,0 +1,29 @@
+Go here:
+
+1. https://rscripts.net/ 
+2.  https://robloxscripts.com/ 
+3. https://scriptblox.com (this is also what the cloud icon in delta gui uses)
+4. https://haxhell.com
+
+Search for a script, copy it, open delta, click the game icon, and press "execute clipboard"
+
+`print("denta")`
+
+If you say that nothing AT ALL executes, copy this and execute clipboard. You should see "denta" in the developer console  (type /console in chat or use the "console" command in infinite yield)
+
+<:warn:1484584771756626011> This is the delta server, not the script finding server <:retard:1288849386117267580>
+
+If you don't know what to do with Delta, why would you even get it?
+
+if you want to test delta's sUNC:
+
+https://docs.sunc.su/#the-script
+
+```lua
+getgenv().sUNCDebug = {
+    ["printcheckpoints"] = false,
+    ["delaybetweentests"] = 0,
+    ["printtesttimetaken"] = false,
+}
+
+loadstring(game:HttpGet("https://script.sunc.su/"))()```
